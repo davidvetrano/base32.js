@@ -8,10 +8,10 @@
   },
   "plugins": ["plugins/markdown"],
   "templates": {
-    "applicationName": "base32.js",
+    "applicationName": "base32js",
     "meta": {
-      "title": "base32.js",
-      "description": "base32.js - Base 32 for JavaScript",
+      "title": "base32js",
+      "description": "base32js - Base 32 for JavaScript",
       "keyword": [
         "base32",
         "base32hex",

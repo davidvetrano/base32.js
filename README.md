@@ -1,4 +1,4 @@
-# Base 32 for JavaScript [![Build Status](https://travis-ci.org/speakeasyjs/base32.js.svg)](http://travis-ci.org/speakeasyjs/base32.js)
+# Base 32 for JavaScript [![Build Status](https://travis-ci.org/honzahommer/base32js.svg)](http://travis-ci.org/honzahommer/base32js)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Base32):
 
@@ -18,12 +18,12 @@
 
 ## Documentation
 
-Full documentation at http://speakeasyjs.github.io/base32.js/
+Full documentation at http://honzahommer.github.io/base32js/
 
 ## Installation
 
 ```sh
-$ npm install base32.js
+$ npm install base32js
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ $ npm install base32.js
 Encoding an array of bytes using [Crockford][crock32]:
 
 ```js
-var base32 = require("base32.js");
+var base32 = require("base32js");
 
 var buf = [1, 2, 3, 4];
 var encoder = new base32.Encoder({ type: "crockford", lc: true });

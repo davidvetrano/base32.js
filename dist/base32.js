@@ -361,4 +361,4 @@ exports.base32hex = base32hex;
 
 /***/ }
 /******/ ])
-//# sourceMappingURL=base32.js.map
+//# sourceMappingURL=base32js.map
